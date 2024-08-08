@@ -1,0 +1,5 @@
+.DS_Store
+ingestion_data/postgres-data/
+*.doc
+*.docx
+.venv
